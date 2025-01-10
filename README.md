@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uladzislau Seviaryn</h1>
 <h3 align="center">An indie game developer from Poland</h3>
 
-I'm currently studying informatics at the University of Gdańsk and plan to get bachaleor degree in the mid 2026. My interests and skills however are more specialized around game development with Unreal Engine. I've already done a few projects before, for instance:
+I'm currently studying informatics at the University of Gdańsk and plan to obtain bachelor's degree in mid-2026. My interests and skills however are more specialized around game development with Unreal Engine. I've already done a few projects before, for instance:
 - [Creepy Nights at Freddy's](https://gamejolt.com/games/cnaf/316567)
 - [Creepy Nights at Freddy's 2](https://gamejolt.com/games/cnaf2/459360)
 - [Creepy Nights at Freddy's 2 \[Android\]](https://play.google.com/store/apps/details?id=com.Ravenstone.CNaF2)
