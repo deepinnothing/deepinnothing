@@ -1,24 +1,28 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget lobortis mi. Quisque non elit nulla. Aenean rhoncus nisl sed lectus vehicula, in tincidunt nisi sagittis. Aliquam erat volutpat. Cras tincidunt metus purus, ac tristique odio imperdiet eu. Sed massa nulla, porttitor in interdum sit amet, venenatis in erat. Praesent tellus sem, ornare eget enim eget, lobortis viverra urna. Nunc eget est mi. Aliquam luctus velit et mi luctus, a aliquet ante facilisis.
+<h1 align="center">Hi 👋, I'm Uladzislau Seviaryn</h1>
+<h3 align="center">An indie game developer from Poland</h3>
 
-Nam semper augue sed velit ultrices, vel ornare nulla viverra. Integer aliquam elit eget consequat ullamcorper. Donec aliquam purus vel velit eleifend, eu lacinia ipsum euismod. Integer tincidunt felis ac ligula vestibulum dignissim. Phasellus nulla est, tristique ut ligula vitae, cursus dapibus ex. In hac habitasse platea dictumst. Cras a massa orci. Sed quis dignissim leo. Nulla quam risus, iaculis ut risus eu, feugiat cursus urna. Pellentesque vitae felis sit amet dui convallis interdum sed at quam. Vivamus vel elit euismod, efficitur ligula eget, sodales arcu. Donec lectus dolor, ultrices id nisl id, suscipit dignissim dolor. Sed neque nisl, venenatis quis turpis porttitor, euismod mollis quam. Ut viverra turpis eros, eu eleifend tortor egestas non. Duis scelerisque scelerisque diam, quis interdum libero ullamcorper vel.
+I'm currently studying informatics at the University of Gdańsk and plan to get bachaleor degree in the mid 2026. My interests and skills however are more specialized around game development with Unreal Engine. I've already done a few projects before, for instance:
+- [Creepy Nights at Freddy's](https://gamejolt.com/games/cnaf/316567)
+- [Creepy Nights at Freddy's 2](https://gamejolt.com/games/cnaf2/459360)
+- [Creepy Nights at Freddy's 2 \[Android\]](https://play.google.com/store/apps/details?id=com.Ravenstone.CNaF2)
 
-Vivamus vitae mollis neque, ac molestie nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum quis nibh at arcu viverra feugiat vitae viverra nunc. Vestibulum pharetra, dolor vel rhoncus consequat, eros velit ultricies sem, ut feugiat ipsum risus non sapien. Pellentesque viverra consectetur tellus in fermentum. Sed finibus, libero nec pharetra euismod, nulla est commodo justo, eu dapibus dui tellus ac dolor. Pellentesque venenatis nisl diam, ut dapibus felis maximus nec. Suspendisse et velit nec est lobortis tincidunt. Morbi aliquet tristique erat sed tincidunt.
+I'm still learning Unreal Engine (new things appear faster than I'm able to learn them, aha) and try to apply my knowledge in another project of mine which I'm working on when I have enough spare time. Here's some screenshots:
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec neque nibh, mattis eget justo ac, semper consequat nulla. Nulla at semper tortor. Etiam gravida quam sed odio consectetur, et pharetra ipsum consequat. Cras eget sapien a ante molestie blandit ac et mi. Donec ac lorem dolor. Aenean at purus nisi. Sed sodales velit maximus bibendum aliquet. Fusce nibh magna, placerat nec augue non, lacinia laoreet nibh. Mauris sollicitudin augue metus, at dapibus dui molestie in. Praesent dignissim a urna eu cursus. Sed sagittis arcu eget mi euismod, in commodo ligula placerat. Curabitur nec purus varius, facilisis ex quis, mattis orci. Proin at nunc ac quam tincidunt malesuada a sit amet ex. Donec lobortis sed justo et varius. Nulla facilisi.
+The development requires a lot of time and effort, so if you're willing to help it will be much appreciated!
 
-Maecenas condimentum, justo eget feugiat viverra, est elit porta libero, in maximus augue nisi sed enim. In hac habitasse platea dictumst. Fusce et aliquam odio, et malesuada mi. Morbi consectetur aliquet ligula, ac facilisis orci malesuada sed. Quisque tristique imperdiet tristique. Etiam consectetur finibus lorem a tincidunt. Sed pharetra hendrerit blandit. Phasellus eget condimentum nibh. Curabitur consectetur ex malesuada, imperdiet felis vitae, fermentum metus. Vivamus rutrum quam ut dapibus euismod. Mauris id erat massa. Proin tempor lorem metus, ac tempor nibh mattis eu. Mauris porta bibendum sapien non finibus. Etiam massa erat, tempor a malesuada eu, porttitor vel quam. 
+Sometimes I also work on a small project named **Atom** which is a client-server desktop application built with Avalonia.UI and .NET (C#) with a potential to become something more.
 
-<!--
-**deepinnothing/deepinnothing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Other than that, I'm a huge metal music fan and like almost any form of art including music, games, arts, films, books, etc.
 
-Here are some ideas to get you started:
+## 📫 How to reach me? Send me an email on **deepinnothing@gmail.com** or connect with me on social networks:
+<p align="left">
+<a href="https://twitter.com/deepinnothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepinnothing" height="30" width="40" /></a>
+<a href="https://fb.com/deepinnothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepinnothing" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1782802808028254209/OXNX9wh9_400x400.jpg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://avaloniaui.net" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14075148?s=48&v=4" alt="avalonia" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.adobe.com/pl/products/substance3d/apps/painter.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/substance-3d-painter-64.svg" alt="substance" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+
+⚡ Fun fact **I think I'm OlDD**
+
+**Lorem ipsum**
