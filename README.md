@@ -7,14 +7,16 @@ I'm currently studying informatics at the University of Gdańsk and plan to get 
 - [Creepy Nights at Freddy's 2 \[Android\]](https://play.google.com/store/apps/details?id=com.Ravenstone.CNaF2)
 
 I'm still learning Unreal Engine (new things appear faster than I'm able to learn them, aha) and try to apply my knowledge in another project of mine which I'm working on when I have enough spare time. Here's some screenshots:
-
+![](HighresScreenshot_2024.02.22-13.38.46.png)
+![](FreddyFazbear'sPizzaOffice.png)
+![](HighresScreenshot_2024.05.05-01.31.57.png)
 The development requires a lot of time and effort, so if you're willing to help it will be much appreciated!
 
 Sometimes I also work on a small project named **Atom** which is a client-server desktop application built with Avalonia.UI and .NET (C#) with a potential to become something more.
 
 Other than that, I'm a huge metal music fan and like almost any form of art including music, games, arts, films, books, etc.
 
-## 📫 How to reach me? Send me an email on **deepinnothing@gmail.com** or connect with me on social networks:
+### How to reach me? Send me an email on **deepinnothing@gmail.com** or connect with me on social networks:
 <p align="left">
 <a href="https://twitter.com/deepinnothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepinnothing" height="30" width="40" /></a>
 <a href="https://fb.com/deepinnothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepinnothing" height="30" width="40" /></a>
