@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uladzislau Seviaryn</h1>
+<h1 align="center">Hi 👋, I'm Władysław Witkowski</h1>
 <h3 align="center">An indie game developer from Poland</h3>
 
 #### I'm currently studying informatics at the University of Gdańsk and plan to obtain bachelor's degree in mid-2026. My interests and skills however are more specialized around game development with Unreal Engine. I've already done a few projects before, for instance:
